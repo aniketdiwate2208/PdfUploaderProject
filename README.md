@@ -19,7 +19,7 @@ To get started with this project locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/aniketdiwate2208/Project.git
+   git clone https://github.com/aniketdiwate2208/pdfuploaderproject.git
    ```
   
 
